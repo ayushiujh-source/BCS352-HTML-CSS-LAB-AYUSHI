@@ -1,0 +1,28 @@
+# Lab 1: Introduction to HTML & Basic Elements
+
+## Student Details
+- Name: Ayushi
+- Student ID: BCS2025414
+- Course: B.Tech Computer Science & Engineering
+- University: Invertis University, Bareilly
+- Subject: HTML and CSS Introduction Lab (BCS352)
+- IDE: VS Code
+
+## Overview
+Basic document structure, headings, paragraphs, and text formatting tags.
+
+## Practical Tasks Covered
+1. Build a simple personal bio page using basic HTML structure (<html>, <head>, <body>).
+2. Use heading tags (<h1> to <h6>) and paragraph tags (<p>) to structure content.
+3. Apply inline text formatting tags (<b>, <i>, <u>, <strong>, <em>, <mark>, <small>).
+
+## Files
+- `index.html` — practical demonstration.
+- `style.css` — page styling.
+- `images/README.md` — screenshot instructions.
+
+## Run
+Open `index.html` in a browser or use VS Code Live Server.
+
+## Verification
+Run the page, inspect the output, and capture your own screenshot before marking the practical verified.
