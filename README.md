@@ -37,6 +37,3 @@ This repository organizes the 15 practicals in the supplied lab record. Each lab
 ## Screenshots
 
 Each lab folder now contains `images/screenshot.svg`, a crisp 1600 × 1000 vector preview of the three practical tasks. Open the SVG in a browser or click it in GitHub to view it at full size. These are vector previews based on the lab record, not direct captures of a live browser run. For an actual execution screenshot, run `index.html` locally and capture the browser output.
-
----
-*Prepared from the supplied BCS352 practical PDF. Verify student details and review the pages before submission.*
