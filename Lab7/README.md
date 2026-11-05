@@ -1,4 +1,4 @@
-# Lab 1: Introduction to HTML & Basic Elements
+# Lab 7: CSS Box Model & Display Properties
 
 ## Student Details
 - Name: Ayushi
@@ -9,17 +9,16 @@
 - IDE: VS Code
 
 ## Overview
-Basic document structure, headings, paragraphs, and text formatting tags.
+Content, padding, border, margin, box-sizing, display block, inline, and inline-block.
 
 ## Practical Tasks Covered
-1. Build a simple personal bio page using basic HTML structure (<html>, <head>, <body>).
-2. Use heading tags (<h1> to <h6>) and paragraph tags (<p>) to structure content.
-3. Apply inline text formatting tags (<b>, <i>, <u>, <strong>, <em>, <mark>, <small>).
+1. Construct visual representations of the CSS Box Model (Content, Padding, Border, Margin).
+2. Compare box-sizing: content-box versus box-sizing: border-box explicitly.
+3. Demonstrate display: block, display: inline, display: inline-block, and display: none.
 
 ## Files
 - `index.html` — practical demonstration.
 - `style.css` — page styling.
-- `images/README.md` — screenshot instructions.
 
 ## Run
 Open `index.html` in a browser or use VS Code Live Server.

@@ -1,4 +1,4 @@
-# Lab 4: Interactive HTML Forms & Controls
+# Lab 10: CSS Grid Layout Systems
 
 ## Student Details
 - Name: Ayushi
@@ -9,17 +9,16 @@
 - IDE: VS Code
 
 ## Overview
-Form elements, text inputs, radio buttons, checkboxes, dropdowns, and form submission.
+Grid container, grid-template-columns, grid-template-rows, grid-gap, area layouts.
 
 ## Practical Tasks Covered
-1. Design a student registration form with standard text and password inputs.
-2. Add selection controls including radio buttons, checkboxes, and select dropdowns.
-3. Include fieldsets, legends, placeholder attributes, and form action buttons.
+1. Set up a CSS Grid container with explicit columns, rows, and gap spacing.
+2. Implement fractional units (fr), repeat(), and minmax() functions.
+3. Create a full web page layout using grid-template-areas.
 
 ## Files
 - `index.html` — practical demonstration.
 - `style.css` — page styling.
-- `images/README.md` — screenshot instructions.
 
 ## Run
 Open `index.html` in a browser or use VS Code Live Server.

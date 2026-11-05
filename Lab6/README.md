@@ -1,4 +1,4 @@
-# Lab 5: Advanced HTML5 Validation & Accessibility
+# Lab 6: CSS Selectors, Colors & Typography
 
 ## Student Details
 - Name: Ayushi
@@ -9,17 +9,16 @@
 - IDE: VS Code
 
 ## Overview
-HTML5 semantic tags, form validations, pattern matching, accessibility attributes.
+Element, class, ID, group, and attribute selectors, color systems, and Google Fonts.
 
 ## Practical Tasks Covered
-1. Incorporate HTML5 semantic tags (<header>, <nav>, <article>, <section>, <footer>).
-2. Enforce client-side HTML5 input validations (required, pattern, min/max, type='email').
-3. Apply ARIA attributes and accessible form labeling for screen reader compatibility.
+1. Apply CSS using Element, Class, ID, and Attribute Selectors.
+2. Demonstrate Hex, RGB, HSL, and RGBA color models across elements.
+3. Integrate custom web fonts, adjust line-height, letter-spacing, and font-weights.
 
 ## Files
 - `index.html` — practical demonstration.
 - `style.css` — page styling.
-- `images/README.md` — screenshot instructions.
 
 ## Run
 Open `index.html` in a browser or use VS Code Live Server.

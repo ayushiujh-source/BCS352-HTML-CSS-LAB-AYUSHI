@@ -1,4 +1,4 @@
-# Lab 3: HTML Tables & Data Representation
+# Lab 9: Flexbox Layout Architecture
 
 ## Student Details
 - Name: Ayushi
@@ -9,17 +9,16 @@
 - IDE: VS Code
 
 ## Overview
-Table structure, row/column spanning (rowspan, colspan), and styled data grids.
+Flex container, flex items, direction, justify-content, align-items, flex-wrap, flex-grow.
 
 ## Practical Tasks Covered
-1. Design a university lecture timetable using HTML table tags (<table>, <tr>, <th>, <td>).
-2. Implement complex table layouts utilizing colspan and rowspan attributes.
-3. Style the table with zebra striping, custom headers, and clean grid borders.
+1. Establish a Flex container and configure flex-direction and wrapping properties.
+2. Master alignment using justify-content and align-items variations.
+3. Build a responsive navbar and multi-column card grid using Flexbox.
 
 ## Files
 - `index.html` — practical demonstration.
 - `style.css` — page styling.
-- `images/README.md` — screenshot instructions.
 
 ## Run
 Open `index.html` in a browser or use VS Code Live Server.
