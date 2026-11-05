@@ -19,7 +19,7 @@ Ordered, unordered, description lists, hyperlinks, and image embedding.
 ## Files
 - `index.html` — practical demonstration.
 - `style.css` — page styling.
-- `images/README.md` — screenshot instructions.
+- `images/screenshot.svg` — crisp vector preview of the practical tasks. This is a visual preview, not a live browser capture.
 
 ## Run
 Open `index.html` in a browser or use VS Code Live Server.
