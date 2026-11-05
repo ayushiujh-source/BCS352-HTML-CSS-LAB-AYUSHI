@@ -19,6 +19,7 @@ Bootstrap grid system, navbar, cards, utility classes, and modal dialog componen
 ## Files
 - `index.html` — practical demonstration.
 - `style.css` — page styling.
+- `images/screenshot.svg` — crisp vector preview of the practical tasks. This is a visual preview, not a live browser capture.
 
 ## Run
 Open `index.html` in a browser or use VS Code Live Server. Internet access is required for the framework CDN.
