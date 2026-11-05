@@ -1,4 +1,4 @@
-# Lab 7: CSS Box Model & Display Properties
+# Lab 11: Responsive Web Design & Media Queries
 
 ## Student Details
 - Name: Ayushi
@@ -9,12 +9,12 @@
 - IDE: VS Code
 
 ## Overview
-Content, padding, border, margin, box-sizing, display block, inline, and inline-block.
+Fluid grids, mobile-first design, breakpoint strategies, media query implementation.
 
 ## Practical Tasks Covered
-1. Construct visual representations of the CSS Box Model (Content, Padding, Border, Margin).
-2. Compare box-sizing: content-box versus box-sizing: border-box explicitly.
-3. Demonstrate display: block, display: inline, display: inline-block, and display: none.
+1. Formulate mobile-first styles for seamless smartphone viewing.
+2. Define responsive breakpoints using @media queries for tablet and desktop views.
+3. Adapt fluid typography, layouts, and navigation toggles dynamically across screens.
 
 ## Files
 - `index.html` — practical demonstration.

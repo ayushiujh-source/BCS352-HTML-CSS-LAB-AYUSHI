@@ -1,4 +1,4 @@
-# Lab 6: CSS Selectors, Colors & Typography
+# Lab 15: Full Capstone Web Project – My Cafe
 
 ## Student Details
 - Name: Ayushi
@@ -9,12 +9,12 @@
 - IDE: VS Code
 
 ## Overview
-Element, class, ID, group, and attribute selectors, color systems, and Google Fonts.
+Complete responsive website integration combining HTML5, CSS Grid, Flexbox, Forms, and Cards.
 
 ## Practical Tasks Covered
-1. Apply CSS using Element, Class, ID, and Attribute Selectors.
-2. Demonstrate Hex, RGB, HSL, and RGBA color models across elements.
-3. Integrate custom web fonts, adjust line-height, letter-spacing, and font-weights.
+1. Build a complete responsive website layout for 'My Cafe' including header, hero, and footer.
+2. Design an interactive Cafe Menu Card grid featuring prices, images, and categories.
+3. Integrate an online table reservation & food ordering form with HTML validation.
 
 ## Files
 - `index.html` — practical demonstration.

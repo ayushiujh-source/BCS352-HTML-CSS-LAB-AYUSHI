@@ -1,4 +1,4 @@
-# Lab 8: CSS Positioning, Floats & Z-Index
+# Lab 13: CSS Frameworks – Bootstrap Integration
 
 ## Student Details
 - Name: Ayushi
@@ -9,19 +9,19 @@
 - IDE: VS Code
 
 ## Overview
-Static, relative, absolute, fixed, and sticky positioning, clearing floats, z-index layering.
+Bootstrap grid system, navbar, cards, utility classes, and modal dialog components.
 
 ## Practical Tasks Covered
-1. Implement static, relative, absolute, fixed, and sticky positioning modes.
-2. Build a multi-column card layout using CSS floats and clearfix techniques.
-3. Control elemental stacking order using z-index layering properties.
+1. Integrate Bootstrap CDN and construct a responsive Bootstrap grid layout.
+2. Implement Bootstrap navigation bars, buttons, and styled card components.
+3. Build interactive modal dialogs and alert badges using utility classes.
 
 ## Files
 - `index.html` — practical demonstration.
 - `style.css` — page styling.
 
 ## Run
-Open `index.html` in a browser or use VS Code Live Server.
+Open `index.html` in a browser or use VS Code Live Server. Internet access is required for the framework CDN.
 
 ## Verification
 Run the page, inspect the output, and capture your own screenshot before marking the practical verified.

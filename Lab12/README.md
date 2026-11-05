@@ -1,4 +1,4 @@
-# Lab 9: Flexbox Layout Architecture
+# Lab 12: CSS Transitions, Animations & Transform
 
 ## Student Details
 - Name: Ayushi
@@ -9,12 +9,12 @@
 - IDE: VS Code
 
 ## Overview
-Flex container, flex items, direction, justify-content, align-items, flex-wrap, flex-grow.
+Hover transitions, keyframe animations, 2D/3D transforms, timing functions.
 
 ## Practical Tasks Covered
-1. Establish a Flex container and configure flex-direction and wrapping properties.
-2. Master alignment using justify-content and align-items variations.
-3. Build a responsive navbar and multi-column card grid using Flexbox.
+1. Apply CSS transitions to buttons, links, and card elements (transition-duration, ease).
+2. Transform elements using 2D matrix properties (scale, rotate, translate).
+3. Build continuous CSS keyframe animations (@keyframes, animation-iteration-count).
 
 ## Files
 - `index.html` — practical demonstration.
